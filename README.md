@@ -1,4 +1,4 @@
-🤖 **AutoMind AI – The Future of Vehicle Intelligence**
+### 🤖 **AutoMind AI – The Future of Vehicle Intelligence**
 
 > "Not just a diagnostic tool. A revolution, born from Rif, coded for the world."
 
