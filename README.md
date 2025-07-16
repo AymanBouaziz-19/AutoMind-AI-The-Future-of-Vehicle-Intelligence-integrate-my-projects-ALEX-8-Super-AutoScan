@@ -109,7 +109,7 @@ AutoMind AI is a **fully intelligent automotive diagnostic system** that:
 * 🔄 OBD communication & testbench validation
 * 🔄 Working on AI diagnosis engine prototype
 * 🔄 UI prototyping in Flutter (Tablet focus)
-* 🎯 Beta Target: Q4 2025
+* 🎯 Beta Target: Q4 2026
 
 ---
 
